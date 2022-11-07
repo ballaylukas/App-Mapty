@@ -4,7 +4,7 @@ Vypracováno v rámci kurzu Udemy [JavaScript 2022](https://www.udemy.com/share/
 
 Webová trackovací aplikace sportovních aktivit "Mapty", strukturovaná paradigmou OOP, založená na koncepte ES6 classes s využitím geolokační API, Local Storage a JS knihovny LEAFLET pro interaktivní mapy.
 
-Vyzkoušejte [APP](https://ballaylukas.github.io/App-Bankist/)!
+Vyzkoušejte [APP](https://ballaylukas.github.io/App-Mapty/)!
 
 ### Funkce aplikace
 * rendrování mapy pomocí JS knihovny
